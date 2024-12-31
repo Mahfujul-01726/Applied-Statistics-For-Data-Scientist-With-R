@@ -1,0 +1,4 @@
+1.https://cran.rstudio.com/
+2.https://posit.co/download/rstudio-desktop/
+3.https://cran.r-project.org/bin/windows/Rtools/
+4.https://posit.cloud/
