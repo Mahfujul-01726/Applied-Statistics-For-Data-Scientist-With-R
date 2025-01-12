@@ -2,29 +2,29 @@
 
 ## Module 1: Foundations of R Programming (07 classes)
 
-1. **Introduction to R and RStudio**
+Class1. **Introduction to R and RStudio**
    - Navigating the RStudio environment
    - Introduction to using scripts
 
-2. **Data Types and Operators**
+Class2. **Data Types and Operators**
    - Data types, variables, operators (mathematical, logical), functions (mathematical, utility, other)
 
-3. **Data Structures**
+Class3. **Data Structures**
    - Vector, matrix
    - Dataframe, list, array
 
-4. **Basic Programming Concepts**
+Class4. **Basic Programming Concepts**
    - Conditional statements, loops, and functions
 
-5. **More on Functions and Introduction to Packages**
+Class5. **More on Functions and Introduction to Packages**
    - Writing functions (in-depth)
    - Installing, loading, and updating packages
 
-6. **Data Manipulation with `dplyr`**
+Class6. **Data Manipulation with `dplyr`**
    - Base R data manipulation vs. `dplyr`
    - `dplyr`: `select`, `filter`, `arrange`, `mutate`, `group_by`, `summarize`
 
-7. **Data Importing and Cleaning**
+Class7. **Data Importing and Cleaning**
    - Using functions to import & export different kinds of data
    - Missing values
    - Outlier detection
@@ -36,20 +36,20 @@
 
 ## Module 2: Basic Statistics and Exploratory Data Analysis (EDA) (04 classes)
 
-1. **Descriptive Statistics**
+Class8. **Descriptive Statistics**
    - Measures of central tendency (mean, median, mode) and dispersion (Std. deviation, variance, IQR, range)
    - Using `dplyr` and other packages to get summary tables
 
-2. **Data Visualization with `ggplot2`**
+Class9. **Data Visualization with `ggplot2`**
    - Grammar of graphics fundamentals
    - Visualization good practices
    - Scatter plot, histogram, boxplot/violin plot
 
-3. **More on Data Visualization**
+Class10. **More on Data Visualization**
    - Bar plot, line chart, and more figure customization options
    - `Plotly` package
 
-4. **Measures of Association**
+Class11. **Measures of Association**
    - Correlation and cross-table
    - Visualization: scatter plots, correlograms, and different kinds of bar plots
 
@@ -57,23 +57,23 @@
 
 ## Module 3: Advanced Statistical Analysis (5 classes)
 
-1. **Hypothesis Testing Fundamentals**
+Class12. **Hypothesis Testing Fundamentals**
    - Hypothesis construction and common test statistics
    - Parametric vs. non-parametric tests
 
-2. **Probability Distributions Fundamentals**
+Class13. **Probability Distributions Fundamentals**
    - Normal (Standard Normal), Poisson distributions
    - Visualization: histogram and density plot
 
-3. **Sampling and Sampling Distributions Fundamentals**
+Class13. **Sampling and Sampling Distributions Fundamentals**
    - Random sampling procedure
    - Student’s t, F, and Chi-square
    - Estimate and confidence interval
 
-4. **Comparing Groups**
+Class14. **Comparing Groups**
    - Two-sample (t-test), paired samples (t-test)
 
-5. **Comparing Multiple Groups**
+Class15. **Comparing Multiple Groups**
    - Multiple samples (ANOVA) and post-hoc testing
 
 **Coursework:** EDA and statistical analysis project  
@@ -82,18 +82,18 @@
 
 ## Module 4: Regression Analysis and Predictive Modeling (3 classes)
 
-1. **Introduction to Linear Regression**
+Class16. **Introduction to Linear Regression**
    - Assumptions and cautions
    - Interpretation of model
    - Measures of fit, reporting, and prediction
 
-2. **Generalized Linear Models (Example: Logistic Regression)**
+Class17. **Generalized Linear Models (Example: Logistic Regression)**
    - Intuition behind GLM
    - Assumptions and cautions
    - Interpretation of model, confusion matrix
    - Measures of fit, reporting, and prediction
 
-3. **Decision Tree and Random Forest in R**
+Class18. **Decision Tree and Random Forest in R**
    - Basic concepts
    - `caret` and `RandomForest` packages
 
